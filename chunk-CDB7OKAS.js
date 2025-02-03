@@ -1,0 +1,1 @@
+import{Ib as a,Pb as i,da as n,qb as o,rb as r}from"./chunk-FMPYM7VX.js";var d=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=n({type:e,selectors:[["app-all-orders"]],standalone:!0,features:[i],decls:2,vars:0,template:function(t,s){t&1&&(o(0,"p"),a(1,"all-orders works!"),r())}})}}return e})();export{d as AllOrdersComponent};
